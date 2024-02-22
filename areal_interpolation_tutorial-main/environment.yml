@@ -1,0 +1,19 @@
+name: areal_interp_env
+channels:
+  - conda-forge
+dependencies:
+  - python >=3.9
+  - jupyterlab=3.2.5
+  - ipywidgets=7.6.5
+  - numpy=1.21.4
+  - shapely=1.8.0
+  - scipy=1.7.3
+  - pandas=1.3.5
+  - geopandas=0.10.2
+  - rasterio=1.2.10
+  - matplotlib=3.5.0
+  - tobler=0.8.2
+  - astropy=5.0
+  - plotly=5.4.0
+
+
